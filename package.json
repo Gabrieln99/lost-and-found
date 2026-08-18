@@ -1,0 +1,14 @@
+{
+  "name": "lost-and-found-contracts",
+  "version": "1.0.0",
+  "description": "Smart contract za decentralizirani Lost & Found sustav s nagradama",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}

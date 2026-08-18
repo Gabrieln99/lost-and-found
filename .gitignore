@@ -1,0 +1,12 @@
+PROJECT_MASTER.md
+node_modules/
+artifacts/
+cache/
+deployments/
+.env
+.env.local
+*.db
+__pycache__/
+*.pyc
+venv/
+.venv/
